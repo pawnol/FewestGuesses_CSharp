@@ -1,0 +1,7 @@
+\\et-fileserver\staff\pawnol\Desktop\FewestGuesses\bin\Debug\FewestGuesses.exe.config
+\\et-fileserver\staff\pawnol\Desktop\FewestGuesses\bin\Debug\FewestGuesses.exe
+\\et-fileserver\staff\pawnol\Desktop\FewestGuesses\bin\Debug\FewestGuesses.pdb
+\\et-fileserver\staff\pawnol\Desktop\FewestGuesses\obj\Debug\FewestGuesses.csproj.AssemblyReference.cache
+\\et-fileserver\staff\pawnol\Desktop\FewestGuesses\obj\Debug\FewestGuesses.csproj.CoreCompileInputs.cache
+\\et-fileserver\staff\pawnol\Desktop\FewestGuesses\obj\Debug\FewestGuesses.exe
+\\et-fileserver\staff\pawnol\Desktop\FewestGuesses\obj\Debug\FewestGuesses.pdb
